@@ -1,0 +1,4 @@
+!pip install pylatexenc
+!pip install qisqit
+!pip install qiskit_aer
+!pip install umap-learn
